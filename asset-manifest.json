@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Divor-macroboard/static/css/main.3f8f4e60.css",
+    "main.js": "/Divor-macroboard/static/js/main.fe299e4e.js",
+    "index.html": "/Divor-macroboard/index.html",
+    "main.3f8f4e60.css.map": "/Divor-macroboard/static/css/main.3f8f4e60.css.map",
+    "main.fe299e4e.js.map": "/Divor-macroboard/static/js/main.fe299e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f8f4e60.css",
+    "static/js/main.fe299e4e.js"
+  ]
+}
