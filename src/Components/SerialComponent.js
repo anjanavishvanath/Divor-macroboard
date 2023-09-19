@@ -29,7 +29,7 @@ const SerialComponent = ({keys}) => {
             // Convert the JSON string to an array of bytes (Uint8Array)
             const encoder = new TextEncoder();
             const data = encoder.encode(keysJson);
-      
+            console.log(data);
             await writer.write(data);
             writer.releaseLock();
           } catch (error) {
