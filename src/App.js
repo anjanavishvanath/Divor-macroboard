@@ -19,7 +19,7 @@ function App() {
     {phrase: "", preset: ""}
   );
 
-  console.log(keys);
+  
 
   //state functions
   const selectKey = (key) => {
